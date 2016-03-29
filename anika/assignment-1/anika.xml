@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bkh.xsl" ?>
+
+<Division xmlns:xlink="http://www.w3.org/1999/xlink">
+	<name>    Division: Chittagong</name>
+	<District>District: Chittagong</District>
+  <Upazila>
+    <title>Upazills:</title>
+     <name>
+  	 <n1>Anwara</n1>
+    <n2>Banshkhali</n2>
+    <n3>Boalkhali</n3>
+    <n4>Chandanaish</n4>
+    <n5>Fatikchhari</n5>
+    <n6>Hathazari</n6>
+    <n7>Lohagara</n7>
+    <n8>Mirsharai</n8>
+    <n9>Patiya</n9>
+	<n10>Rangunia</n10>
+	<n11>Raozan</n11>
+	<n12>Sandwip</n12>
+	<n13>Satkania</n13>
+	<n14>Sitakunda</n14>
+	<n15>Chandgaon</n15>
+	<n16>DoubleMooring</n16>
+	<n17>Kotwali</n17>
+	<n18>Pahartali</n18>
+	<n19>Panchlaish</n19>
+  </name>
+
+  <area>
+    
+    <a1>173.53 sq km </a1>
+    <a2>376.9 sq km</a2>
+    <a3>145.44 sq km</a3>
+    <a4>201.99 sq km</a4>
+    <a5>773.55 sq km</a5>
+    <a6>251.28 sq km</a6>
+    <a7>258.87 sq km</a7>
+    <a8>482.88 sq km</a8>
+    <a9>316.47 sq km </a9>
+    <a10>351.95 sq km</a10>
+    <a11> 246.58 sq km </a11>
+    <a12> 	762.42 sq km</a12>
+    <a13>280.99 sq km </a13>
+    <a14> 	483.97 sq km </a14>
+    <a15> 	32.14 sq km </a15>
+    <a16> 26.99 sq km</a16>
+    <a17>6.24 sq km </a17>
+    <a18> 	8.44 sq km</a18>
+    <a19>27.45 sq km </a19>
+    
+    </area>
+
+
+  <population>
+       <male>
+	      <m1>4,230</m1>
+	    <m2>25,0230</m2>
+		 <m3>10,230</m3>
+		  <m4>134,235</m4>
+		   <m5>15878</m5>
+		    <m6>3,238</m6>
+			 <m7>12423</m7>
+			  <m8>11567</m8>
+			   <m9>14,237</m9>
+			    <m10>3,250</m10>
+				 <m11>7650</m11>
+				  <m12>1389</m12>
+				   <m13>10670</m13>
+				    <m14>34,230</m14>
+					 <m15>238</m15>
+					  <m16>1,530</m16>
+					   <m17>6,430</m17>
+					    <m18>7,800</m18>
+						 <m19>5600</m19>
+						 
+	   </male>
+	   <female>
+ <f1>3,715</f1>
+  <f2>30,400</f2>
+    <f3>9023</f3>
+	<f4>123,712</f4>
+	<f5>13,71</f5>
+	<f6>7,715</f6>
+	<f7>113,515</f7>
+	<f8>13,715</f8>
+	<f9>11,215</f9>
+	 <f10>2400</f10>
+	  <f11>9800</f11>
+	   <f12>1567</f12>
+	    <f13>9,715</f13>
+		 <f14>31,379</f14>
+		 <f15>715</f15>
+		 
+		  <f16>1590</f16>
+		   <f17>7650</f17>
+		    <f18>8816</f18>
+			 <f19>5490</f19>
+	   </female>
+    
+
+  </population>
+
+<literacy>
+
+
+    <n1>47.2 </n1>
+    <n2>29.5 </n2>
+    <n3>71.8 </n3>
+    <n4>56.5 </n4>
+    <n5>43.2 </n5>
+    <n6>57.9 </n6>
+    <n7>44.6 </n7>
+    <n8>52.0 </n8>
+    <n9>9.1</n9>
+	 <n10>54.3  </n10>
+	  <n11>64.1 </n11>
+	   <n12>46.1 </n12>
+	    <n13>46.2 </n13>
+		 <n14>54.6 </n14>
+		  <n15>47.2 </n15>
+		   <n16>62.70  </n16>
+		    <n17>63.10 </n17>
+			 <n18>79.60  </n18>
+			 <n19>69.20  </n19>
+</literacy>
+
+
+
+
+<postalcode>
+
+
+    <p1>4376</p1>
+    <p2>4378</p2>
+    <p3>4377</p3>
+    <p4>4366</p4>
+    <p5>4369</p5>
+    <p6>4365</p6>
+    <p7>4368</p7>
+    <p8>4363</p8>
+    <p9>4367</p9>
+	<p10>4364</p10>
+	<p11>4221</p11>
+	<p12>4211</p12>
+	<p13>4215</p13>
+	<p14>4210</p14>
+	<p15>4212</p15>
+	<p16>4203</p16>
+	<p17>4201</p17>
+	 <p18>4205</p18>
+	<p19>4208</p19>
+
+</postalcode>
+<moreinfo>
+
+  <url1>https://en.wikipedia.org/wiki/Anwara_Upazila</url1>
+    <url2>https://en.wikipedia.org/wiki/Banshkhali_Upazila</url2>
+    <url3>https://en.wikipedia.org/wiki/Boalkhali_Upazila</url3>
+    <url4>https://en.wikipedia.org/wiki/Chandanaish_Upazila</url4>
+    <url5>https://en.wikipedia.org/wiki/Fatikchhari_Upazila</url5>
+    <url6>https://en.wikipedia.org/wiki/Hathazari_Upazila</url6>
+	<url7>https://en.wikipedia.org/wiki/Lohagara_Upazila</url7>
+    <url8>https://en.wikipedia.org/wiki/Mirsharai_Upazila</url8>
+    <url9>https://en.wikipedia.org/wiki/Patiya_Upazila</url9>
+    <url10>https://en.wikipedia.org/wiki/Rangunia_Upazila</url10>
+	  <url11>https://en.wikipedia.org/wiki/Raozan_Upazila</url11>
+	    <url12>https://en.wikipedia.org/wiki/Sandwip_Upazila</url12>
+		  <url13>https://en.wikipedia.org/wiki/Satkania_Upazila</url13>
+		    <url14>https://en.wikipedia.org/wiki/Sitakunda_Upazila</url14>
+			  <url15>https://en.wikipedia.org/wiki/Chandgaon_Upazila</url15>
+			    <url16>https://en.wikipedia.org/wiki/DoubleMooring_Upazila</url16>
+				  <url17>https://en.wikipedia.org/wiki/Kotwali_Upazila</url17>
+				    <url18>https://en.wikipedia.org/wiki/Pahartali_Upazila </url18>
+					  <url19>https://en.wikipedia.org/wiki/Panchlaish_Upazila</url19>
+					   
+						
+						  
+</moreinfo>
+
+
+    
+</Upazila> 
+
+</Division>
